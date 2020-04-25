@@ -106,7 +106,7 @@ li a:hover{
   padding-top: 30px;
   padding-bottom: 60px;
   background-image: linear-gradient(to right, #1a0000,
-  rgb(140, 6, 8, 1));
+  #8c0608);
   text-align: justify;
   color: #ffffff;
 }
@@ -131,7 +131,7 @@ li a:hover{
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: linear-gradient(to left, #1a0000,
-  rgb(140, 6, 8, 1));
+  #8c0608);
   text-align: right;
   color: #ffffff;
 }
@@ -161,7 +161,7 @@ li a:hover{
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: linear-gradient(to right, #1a0000,
-  rgb(140, 6, 8, 1));
+  #8c0608);
   text-align: justify;
   color: #ffffff;
 }
